@@ -45,7 +45,3 @@ To run this project, you’ll need:
 * Which genres perform best?
 * Are there seasonal trends in sales?
 
-
----
-
-If you want this README tailored (for GitHub, college submission, or a resume project), tell me the context and I’ll tune it 👌
